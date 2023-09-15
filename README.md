@@ -313,6 +313,8 @@ but your local copy doesn't know about the change yet.
 or you can run `git pull` from the Terminal tab. Once you have done the pull, you should see that commit show up in
 your local repository.
 
+Yessir
+
 Let's move on to a couple more small programming challenges for you to try out, which are similar to Fizz Buzz.
 
 # Technical interviews  (and Java practice)
